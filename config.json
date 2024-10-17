@@ -1,0 +1,9 @@
+{
+    "icon" : "/Users/bimac/Documents/CTU/CT294/BTL/image/ctu_logo.png",
+    "tfidf" : "/Users/bimac/Documents/CTU/CT294/BTL/model/tfidf_model.pkl",
+    "chi2_selector" : "/Users/bimac/Documents/CTU/CT294/BTL/model/chi2_model.pkl",
+    "mnb" : "/Users/bimac/Documents/CTU/CT294/BTL/model/mnb_model.pkl",
+    "bigram_model" : "/Users/bimac/Documents/CTU/CT294/BTL/model/bigram_model.pkl",
+    "trigram_model" : "/Users/bimac/Documents/CTU/CT294/BTL/model/trigram_model.pkl",
+    "eng_stopwords" : "/Users/bimac/Documents/CTU/CT294/BTL/model/stopwords.pkl"
+}
